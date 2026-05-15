@@ -1,10 +1,10 @@
 # Web Fingerprinting Defences — Experiments
 
 Companion code for the Data and Network Security report on:
-- **Simulacrum** (Karami et al., USENIX Security 2022) — extension fingerprinting defence
-- **QCSD** (Smith et al., USENIX Security 2022) — website fingerprinting defence via QUIC
+- **Simulacrum** (Karami et al., USENIX Security 2022)
+- **QCSD** (Smith et al., USENIX Security 2022)
 
-Two independent experiments were implemented to validate claims from the papers.
+Two experiments were implemented to validate claims from the papers.
 
 ---
 
