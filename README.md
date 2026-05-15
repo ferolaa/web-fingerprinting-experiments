@@ -94,5 +94,3 @@ pip install numpy matplotlib scikit-learn
 
 - Smith et al., *QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework*, USENIX Security 2022
 - Karami et al., *Unleash the Simulacrum*, USENIX Security 2022
-- Hayes & Danezis, *k-fingerprinting*, USENIX Security 2016
-- Gong & Wang, *Zero-delay Lightweight Defenses Against Website Fingerprinting (FRONT)*, USENIX Security 2020
